@@ -25,7 +25,6 @@
     "aos": "^2.3.4",
     "bootstrap": "^5.3.5",
     "express": "^4.18.2",
-    "ng-inline-svg": "^13.1.2",
     "ngx-owl-carousel-o": "^17.0.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
